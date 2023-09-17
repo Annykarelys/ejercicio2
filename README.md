@@ -6,7 +6,8 @@ sigo aprendendo
 comprovando readme
 
 **Programas Usados:**
-VsCode
+VsCode ![image](https://github.com/Annykarelys/ejercicio2/assets/136647764/501fa1dc-1519-4018-8bb4-b4a07ea7da6b)
+
 Inssomnia
 Mozilla Developer Edition
 Stripe
